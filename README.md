@@ -6,4 +6,6 @@
 
 ✔This will help you to cover python in a much easy order.
 
+✔Also contains some mini projects to implement the knowledge. 
+
 happy coding 😊
