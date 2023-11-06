@@ -1,0 +1,6 @@
+n=int(input("Enter total students of english :"))
+english=set(map(int, input("Enter roll number of English students(seprated by space)").split()))
+m=int(input("Enter total students of french :"))
+french=set(map(int, input("Enter roll number of French students(seprated by space)").split()))
+only_english=len(english-french)
+print("Total number of students who are subscribed to the English newspaper : ",only_english)

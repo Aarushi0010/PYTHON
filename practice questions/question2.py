@@ -1,0 +1,12 @@
+string1 = input("Enter a string : ")
+
+print("To check if string conatains alphanumeric values ")
+print(string1.isalpha())
+print("To check if string contains only alphabetical characters ")
+print(string1.isalnum())
+print("To check if string contains all uppercase characters ")
+print(string1.isupper())
+print("To check if string contains all lowercase characters ")
+print(string1.islower())
+print("To check if string contains only digits ")
+print(string1.isdigit())
