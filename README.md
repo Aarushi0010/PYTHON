@@ -1,6 +1,6 @@
 # PYTHON
 
-✨welcome to my python programming repository . This one will contain all the python programs in a much sorted way .
+✨welcome to my python programming repository . This one will contain all the python programs in a much sorted way.
 
 ✔The programs will be devided into categories based on the method used to solve.
 
